@@ -6,10 +6,14 @@
 Gender Classifier is python program which shows the functionality of a deep learning convolutional neural network that classifies between male and females.
 
 ## Table of contents
-* [Setup](##Setup)
-* [Technologies](##Technologies)
-* [Features](##Features)
-* [Contributers](##Contributers)
+* [Technologies](#technologies)
+  * [Dataset](#dataset)
+  * [Model](#model)
+  * [Setup](#setup)
+  * [Features](#features)
+    + [Use Still Image](#use-still-image)
+    + [Use Live Camera](#use-live-camera)
+  * [Contributers](#contributers)
 
 ## Technologies
 * Programming Language: Python 
