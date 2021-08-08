@@ -60,7 +60,8 @@ The output will be automatically displayed and also saved as output.jpg in the p
 Instead of using an image, If you have a camera in your PC/Laptop, you can press "Use Live Camera" to get the classification done on the camera input.
 
 Each frame will be passed to the model for classification and the output will be automatically shown.
-![Still Image](https://user-images.githubusercontent.com/25768661/128628260-2ff43600-1fba-4f48-8717-1cc643d43f1b.gif)
+![index](https://user-images.githubusercontent.com/25768661/128634496-15bd98da-2a4f-45a2-924c-7342e8a85550.png)
+
 
 ## Contributers
 [Khaled Mohamed](https://github.com/Khaledmohamedrefaat)
